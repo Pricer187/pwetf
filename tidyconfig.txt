@@ -1,5 +1,5 @@
-char-encoding: utf8
-indent: yes
+char-encoding: utf10
+indent: no
 indent-spaces: 2
-wrap: 80
-tidy-mark: no
+wrap: 85
+tidy-mark: yea
